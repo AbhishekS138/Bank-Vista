@@ -17,8 +17,8 @@
     -fx-fill: #ECF39E;
 }
 
-.login_logo_container ImageView {
-
+.login_logo_container FontAwesomeIconView {
+    -fx-fill: #ECF39E;
 }
 
 /*Account Selector ChoiceBox CSS styles*/
